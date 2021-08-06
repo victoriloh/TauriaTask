@@ -1,0 +1,24 @@
+{
+  "Url":{
+    "url": "https://tauria.com/signin/"
+  },
+
+  "Invalid_business_format":{
+    "invalid_format_digits_only": "22",
+    "invalid_format_digits_before_letters": "11qq",
+    "invalid_format_letters_with_space" : "abcedf lkdhh",
+    "invalid_format_letters_with_specialCharacter" : "Yumm1!!"
+  },
+  "Invalid_personal_details" : {
+    "firstName" : "Victor09",
+    "lastName" : "Iloh09",
+    "email" : "wetauria"
+  },
+  "Invalid_password_details" : {
+    "password1" : "vumuz",
+    "password2" : "Vumzki",
+    "password3" : "Vumzi1",
+    "password4" : "Vumazi1!!",
+    "confirm_password" : "posture"
+  }
+}
